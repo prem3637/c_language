@@ -1,2 +1,2 @@
 # c_language
-Advance pattern programs
+Advance/Dynamic pattern programs
